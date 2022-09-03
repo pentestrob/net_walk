@@ -10,6 +10,7 @@ usage example is as follows:
   YOU may need to install scapy on your local system to run the tool, that can be done as follows:
   
   **pip install scapy-python3**
+  or
   **pip3 install scapy-python3**
 
 This tool is for educational purposes only. I am not responsible for your actions. 
